@@ -1,2 +1,3 @@
 local
 \n newline
+another new line in file1.txt
